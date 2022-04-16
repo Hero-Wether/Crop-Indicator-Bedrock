@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "uuid": "9ece460b-9497-452c-8bd0-fbb04021a186",
+        "name": "Crop Indicator",
+        "description": "§6Shows when Carrots, Potatos, Wheat, Sweet Berries,\n§6Netherwart, Beetroots, and Amethyst Clusters are ready to be harvested\n §4Made By Hero Wether\n §5§lwww.voxellabstudios.com",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "uuid": "8018aed4-8acd-4dce-8863-7dbf395cf8fb"
+        }
+    ]
+}
